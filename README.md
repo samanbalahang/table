@@ -33,6 +33,7 @@ datatables.min.js
   <p>
   all this resorses are in this reposetory you can click on green code button add click on download zip or use git bash for clone this
   </p>
+
 ```html
 $ git clone https://github.com/samanbalahang/table.githttps://github.com/samanbalahang/table.git
 ```
@@ -41,6 +42,7 @@ $ git clone https://github.com/samanbalahang/table.githttps://github.com/samanba
 
 <p>
   in thml file you have to create table with this structure
+  
 ```html
    <table class="datatable">
         <thead>
